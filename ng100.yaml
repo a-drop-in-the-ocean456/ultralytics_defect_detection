@@ -1,0 +1,11 @@
+path: ../
+
+train:
+  - NG100_split/train
+  - OK90_paste
+
+val: NG100_split/val
+test: NG100_split/val
+
+names:
+  0: ng
