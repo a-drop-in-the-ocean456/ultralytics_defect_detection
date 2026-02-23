@@ -1,4 +1,4 @@
-path: ../
+path: ./dataset
 
 train:
   - NG100_split/train
